@@ -1,7 +1,9 @@
 import { useEffect } from "react";
 import { useState } from "react"
+import Blog from "../Blog/Blog";
+import { MdOutlineBookmarks } from "react-icons/md";
 
-export default function Blogs() {
+export default function Blogs({controleBookMarks,controleTime}) {
     let [info, setInfo] = useState([]);
 
     useEffect(() => {
@@ -11,11 +13,14 @@ export default function Blogs() {
     }, [])
     console.log(info);
     return (
-        <div>
+        <div className="md:col-span-2">
 
+       
+          <div>
             {
-                info.map(items =>  <img src={items.cover} alt="" /> )
+                info.map((items,idx) => <Blog controleTime = {controleTime} key={idx} controleBookMarks={controleBookMarks} info = {items}></Blog>)
             }
+          </div>
         </div>
     )
 }
