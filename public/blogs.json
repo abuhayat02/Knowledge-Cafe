@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/kynZC96/pexels-pamelamariephoto-2625769-1.jpg",
+    "title": "Understanding Artificial Intelligence",
+    "author": "Michael Brown",
+    "author_image": "",
+    "posted_date": "October 10, 2023",
+    "reading_time": 12,
+    "hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/SKPvPJ1/pexels-sebastian-566169.jpg",
+    "title": "Exploring the Universe: A Beginner's Guide",
+    "author": "Emily Smith",
+    "author_image": "https://i.ibb.co.com/hshLP9K/pexels-maksgelatin-5550302.jpg",
+    "posted_date": "October 15, 2023",
+    "reading_time": 10,
+    "hashtags": ["#Space", "#Astronomy", "#Education"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/7y6YhSv/pexels-lanophotography-168417-1.jpg",
+    "title": "The Rise of Quantum Computing",
+    "author": "Sarah Johnson",
+    "author_image": "https://i.ibb.co.com/kynZC96/pexels-pamelamariephoto-2625769-1.jpg",
+    "posted_date": "October 20, 2023",
+    "reading_time": 11,
+    "hashtags": ["#QuantumComputing", "#Innovation", "#Future"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/RhKdJCn/pexels-alancabello-1195214.jpg",
+    "title": "The Future of Renewable Energy",
+    "author": "Anna Thompson",
+    "author_image": "https://i.ibb.co.com/JKTCYrP/pexels-marta-dzedyshko-1042863-2067627.jpg",
+    "posted_date": "October 25, 2023",
+    "reading_time": 8,
+    "hashtags": ["#RenewableEnergy", "#Sustainability", "#GreenTech"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/HXhPs9g/pexels-eye4dtail-614874-1.jpg",
+    "title": "The Psychology of Colors in Marketing",
+    "author": "Daniel Lee",
+    "author_image": "https://i.ibb.co.com/Qj1MrRL/pexels-james-lee-932763-2017021-1.jpg",
+    "posted_date": "October 30, 2023",
+    "reading_time": 7,
+    "hashtags": ["#Marketing", "#Psychology", "#Colors"]
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co.com/vk2KkJs/pexels-pixabay-55748.jpg",
+    "title": "The Art of Mindfulness",
+    "author": "Lisa White",
+    "author_image": "https://i.ibb.co.com/PwYpZ75/pexels-gonchifacello-635927.jpg",
+    "posted_date": "November 1, 2023",
+    "reading_time": 9,
+    "hashtags": ["#Mindfulness", "#Wellness", "#Lifestyle"]
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co.com/rQFKzpV/pexels-paggiarofrancesco-1374889.jpg",
+    "title": "Advancements in Genetic Engineering",
+    "author": "James Green",
+    "author_image": "https://i.ibb.co.com/QmP3WQQ/pexels-thaifilms-official-13877769-6277628.jpg",
+    "posted_date": "November 5, 2023",
+    "reading_time": 11,
+    "hashtags": ["#Genetics", "#Biotechnology", "#Future"]
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co.com/mv2K92H/pexels-zeynep-kubra-gunes-121007793-9906431.jpg",
+    "title": "The Impact of Social Media on Society",
+    "author": "Megan Hall",
+    "author_image": "https://i.ibb.co.com/RgBdQjq/pexels-padrinan-1453809.jpg",
+    "posted_date": "November 10, 2023",
+    "reading_time": 10,
+    "hashtags": ["#SocialMedia", "#Society", "#Impact"]
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co.com/tJ1knc6/pexels-grisentig-4215109.jpg",
+    "title": "Blockchain Technology: Beyond Cryptocurrency",
+    "author": "Alex Carter",
+    "author_image": "https://i.ibb.co.com/y8j40qJ/pexels-byrahul-695644.jpg",
+    "posted_date": "November 15, 2023",
+    "reading_time": 13,
+    "hashtags": ["#Blockchain", "#Technology", "#Finance"]
+  },
+  {
+    "id": 10,
+    "cover": "https://i.ibb.co.com/4Jq4wyJ/pexels-cliford-mervil-988071-2469122.jpg",
+    "title": "The Science of Climate Change",
+    "author": "Emma Brown",
+    "author_image": "https://i.ibb.co.com/yRK1h84/pexels-pixabay-315938.jpg",
+    "posted_date": "November 20, 2023",
+    "reading_time": 14,
+    "hashtags": ["#ClimateChange", "#Science", "#Environment"]
+  },
+  {
+    "id": 11,
+    "cover": "https://i.ibb.co.com/yyxr84d/pexels-ankit-rainloure-1425442-28992287.jpg",
+
+    "title": "The Future of Transportation",
+    "author": "Olivia Turner",
+    "author_image": "https://i.ibb.co.com/p4JG2F4/pexels-alex-sever-89807754-28994500.jpg",
+    "posted_date": "November 25, 2023",
+    "reading_time": 15,
+    "hashtags": ["#Transportation", "#Innovation", "#Future"]
+  },
+  {
+    "id": 12,
+    "cover": "https://i.ibb.co.com/ZX2kXq1/pexels-sahil-patel-2505588-7067933.jpg",
+    "title": "Understanding Cryptography",
+    "author": "Lucas King",
+    "author_image": "https://i.ibb.co.com/yfC0SzB/pexels-ahmed-akacha-3313934-7487887.jpg",
+    "posted_date": "December 1, 2023",
+    "reading_time": 10,
+    "hashtags": ["#Cryptography", "#Security", "#Technology"]
+  },
+  {
+    "id": 13,
+    "cover": "https://i.ibb.co.com/GTjY1CX/pexels-ahmetbozkus-19614326.jpg",
+    "title": "Exploring Machine Learning",
+    "author": "Sophia Lee",
+    "author_image": "https://i.ibb.co.com/4FnnD85/pexels-mtyutina-7453098.jpg",
+    "posted_date": "December 5, 2023",
+    "reading_time": 11,
+    "hashtags": ["#MachineLearning", "#AI", "#DataScience"]
+  },
+  {
+    "id": 14,
+    "cover": "https://i.ibb.co.com/ThTkncn/pexels-pixabay-15239.jpg",
+    "title": "The Evolution of the Internet",
+    "author": "Ethan Brown",
+    "author_image": "https://i.ibb.co.com/NLL7PDx/pexels-10-star-321296-912473.jpg",
+    "posted_date": "December 10, 2023",
+    "reading_time": 9,
+    "hashtags": ["#Internet", "#History", "#Technology"]
+  },
+  {
+    "id": 15,
+    "cover": "https://i.ibb.co.com/dkB5jXY/pexels-cottonbro-3826670.jpg",
+    "title": "The Role of AI in Healthcare",
+    "author": "Ava Mitchell",
+    "author_image": "https://i.ibb.co.com/SrZj1sC/pexels-designecologist-887353.jpg",
+    "posted_date": "December 15, 2023",
+    "reading_time": 12,
+    "hashtags": ["#AI", "#Healthcare", "#Future"]
+  },
+  {
+    "id": 16,
+    "cover": "https://i.ibb.co.com/jT8NZws/pexels-designecologist-887349.jpg",
+    "title": "Understanding Virtual Reality",
+    "author": "Liam Clark",
+    "author_image": "https://i.ibb.co.com/h9pcHDf/pexels-rachel-claire-5531048.jpg",
+    "posted_date": "December 20, 2023",
+    "reading_time": 14,
+    "hashtags": ["#VirtualReality", "#Technology", "#Gaming"]
+  },
+  {
+    "id": 17,
+    "cover": "https://i.ibb.co.com/M5V6Dpc/pexels-alex-andrews-271121-5086477.jpg",
+    "title": "The Science of Happiness",
+    "author": "Grace Taylor",
+    "author_image": "https://i.ibb.co.com/42nsNgC/pexels-skylar-kang-6430739.jpg",
+    "posted_date": "January 1, 2024",
+    "reading_time": 8,
+    "hashtags": ["#Happiness", "#Psychology", "#Wellbeing"]
+  },
+  {
+    "id": 18,
+    "cover": "https://i.ibb.co.com/JcLFyQt/pexels-337393-3516274.jpg",
+    "title": "The Basics of Data Science",
+    "author": "Noah Johnson",
+    "author_image": "https://i.ibb.co.com/cTHD7gv/pexels-alexfu-3629669.jpg",
+    "posted_date": "January 5, 2024",
+    "reading_time": 11,
+    "hashtags": ["#DataScience", "#AI", "#Analytics"]
+  },
+  {
+    "id": 19,
+    "cover": "https://i.ibb.co.com/dkbLzrz/pexels-pixabay-416985.jpg",
+    "title": "The Future of Education",
+    "author": "Mia Davis",
+    "author_image": "https://i.ibb.co.com/PWzP07P/pexels-chetanvlad-3051520.jpg",
+    "posted_date": "January 10, 2024",
+    "reading_time": 10,
+    "hashtags": ["#Education", "#Future", "#Learning"]
+  },
+  {
+    "id": 20,
+    "cover": "https://i.ibb.co.com/1zphY21/pexels-pixabay-94272.jpg",
+    "title": "Innovations in Robotics",
+    "author": "Lucas Hall",
+    "author_image": "https://i.ibb.co.com/NpHnVx7/pexels-ashutoshsonwani-1791747.jpg",
+    "posted_date": "January 15, 2024",
+    "reading_time": 12,
+    "hashtags": ["#Robotics", "#Innovation", "#Technology"]
+  },
+  {
+    "id": 21,
+    "cover": "https://i.ibb.co.com/sjffpZf/pexels-cottonbro-9695080.jpg",
+    "title": "The Art of Storytelling",
+    "author": "Sophie Lee",
+    "author_image": "https://i.ibb.co.com/bsZbGDF/pexels-cottonbro-5416322.jpg",
+    "posted_date": "January 20, 2024",
+    "reading_time": 13,
+    "hashtags": ["#Storytelling", "#Writing", "#Creativity"]
+  },
+  {
+    "id": 22,
+    "cover": "https://i.ibb.co.com/0ZTQGmg/pexels-13nuance-561462.jpg",
+    "title": "The Science of Nutrition",
+    "author": "Ella Brown",
+    "author_image": "https://i.ibb.co.com/WD2GkRg/pexels-shashank-22345.jpg",
+    "posted_date": "January 25, 2024",
+    "reading_time": 9,
+    "hashtags": ["#Nutrition", "#Health", "#Wellness"]
+  },
+  {
+    "id": 23,
+    "cover": "https://i.ibb.co.com/5ctQnDK/pexels-rahulp9800-3135473.jpg",
+    "title": "The History of Computing",
+    "author": "Liam Johnson",
+    "author_image": "https://i.ibb.co.com/7nHfdZ9/pexels-bertellifotografia-577584.jpg",
+    "posted_date": "February 1, 2024",
+    "reading_time": 10,
+    "hashtags": ["#Computing", "#History", "#Technology"]
+  },
+  {
+    "id": 24,
+    "cover": "https://i.ibb.co.com/X308nPt/pexels-dreamypixel-552788.jpg",
+    "title": "Understanding the Blockchain",
+    "author": "Samantha King",
+    "author_image": "https://i.ibb.co.com/hshLP9K/pexels-maksgelatin-5550302.jpg",
+    "posted_date": "February 5, 2024",
+    "reading_time": 12,
+    "hashtags": ["#Blockchain", "#Technology", "#Future"]
+  },
+  {
+    "id": 25,
+    "cover": "https://i.ibb.co.com/kcNZ5xP/pexels-etienne-marais-54779-217660.jpg",
+    "title": "The Role of Technology in Education",
+    "author": "Oliver Smith",
+    "author_image": "https://i.ibb.co.com/fdNBsBk/pexels-lanophotography-194511.jpg",
+    "posted_date": "February 10, 2024",
+    "reading_time": 11,
+    "hashtags": ["#Technology", "#Education", "#Future"]
+  },
+  {
+    "id": 26,
+    "cover": "https://i.ibb.co.com/6gWBgwH/pexels-jplenio-2080961.jpg",
+    "title": "The Ethics of AI",
+    "author": "Sophia Clark",
+    "author_image": "https://i.ibb.co.com/dkByv4L/pexels-pixabay-415693.jpg",
+    "posted_date": "February 15, 2024",
+    "reading_time": 10,
+    "hashtags": ["#AI", "#Ethics", "#Future"]
+  },
+  {
+    "id": 27,
+    "cover": "https://i.ibb.co.com/gvyZMWY/pexels-miriamespacio-110867.jpg",
+    "title": "The Importance of Mental Health",
+    "author": "Jack Brown",
+    "author_image": "https://i.ibb.co.com/9qWRyRJ/pexels-dk100396-783200.jpg",
+    "posted_date": "February 20, 2024",
+    "reading_time": 13,
+    "hashtags": ["#MentalHealth", "#Wellbeing", "#Awareness"]
+  },
+  {
+    "id": 28,
+    "cover": "https://i.ibb.co.com/kh20wpC/pexels-charles-parker-5859666.jpg",
+    "title": "The Future of Work",
+    "author": "Chloe Johnson",
+    "author_image": "https://i.ibb.co.com/9nCyNdt/pexels-jeremy-bishop-1260133-2397414.jpg",
+    "posted_date": "February 25, 2024",
+    "reading_time": 12,
+    "hashtags": ["#FutureOfWork", "#Careers", "#Innovation"]
+  },
+  {
+    "id": 29,
+    "cover": "https://i.ibb.co.com/LPtVXDh/pexels-apasaric-1694000.jpg",
+    "title": "The Impact of Technology on Society",
+    "author": "Benjamin Lee",
+    "author_image": "https://i.ibb.co.com/hC1VHPj/pexels-sebastians-750225.jpg",
+    "posted_date": "March 1, 2024",
+    "reading_time": 11,
+    "hashtags": ["#Technology", "#Society", "#Impact"]
+  },
+  {
+    "id": 30,
+    "cover": "https://i.ibb.co.com/Fmdb1q9/pexels-george-desipris-748626.jpg",
+    "title": "The Future of Cybersecurity",
+    "author": "Emily White",
+    "author_image": "https://i.ibb.co.com/7tGYX2p/pexels-pixabay-434348.jpg",
+    "posted_date": "March 5, 2024",
+    "reading_time": 10,
+    "hashtags": ["#Cybersecurity", "#Future", "#Technology"]
+  },
+  {
+    "id": 31,
+    "cover": "https://i.ibb.co.com/4pMSGFp/pexels-kei-scampa-1201427-2364669.jpg",
+    "title": "Understanding Augmented Reality",
+    "author": "Henry Johnson",
+    "author_image": "https://i.ibb.co.com/12sJC6K/pexels-lukas-rychvalsky-670720.jpg",
+    "posted_date": "March 10, 2024",
+    "reading_time": 9,
+    "hashtags": ["#AugmentedReality", "#Technology", "#Innovation"]
+  },
+  {
+    "id": 32,
+    "cover": "https://i.ibb.co.com/FzdPLDd/pexels-aliatiabi-3634574.jpg",
+    "title": "The Evolution of Artificial Intelligence",
+    "author": "Megan Brown",
+    "author_image": "https://i.ibb.co.com/SKPvPJ1/pexels-sebastian-566169.jpg",
+    "posted_date": "March 15, 2024",
+    "reading_time": 12,
+    "hashtags": ["#AI", "#Evolution", "#Future"]
+  }
+]
